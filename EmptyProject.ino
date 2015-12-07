@@ -4,7 +4,9 @@
  
   This example code is in the public domain.
  */
- 
+
+
+// Fill in project details here
 String confProject = "Blink";
 String confVersion = "0.0";
 String confDate ="29/04/2015";
